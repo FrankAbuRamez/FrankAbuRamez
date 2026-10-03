@@ -8,9 +8,9 @@ On my own time, **I build AI tools**, mostly around the same question I deal wit
 
 | | |
 |---|---|
-| [**Plan Review Copilot**](https://github.com/FrankABuRamez/plan-review-copilot) | AI-assisted building-code review: draft → senior audit → QA gate, scored against an answer key. 100% precision and 87% recall on test projects; the QA gate blocks 10/10 deliberately bad comments. |
-| [**Agent Action Gate**](https://github.com/FrankABuRamez/agent-action-gate) | Safety layer for AI agents: nothing risky runs without a human approving that exact action. Spend limits, kill switch, tamper-evident log. Includes a Claude agent example. |
-| [**AI Revenue Desk**](https://github.com/FrankABuRamez/ai-revenue-desk) | After-hours receptionist for HVAC and plumbing shops. Emergencies always go to a human; it never diagnoses or promises. |
+| [**Plan Review Copilot**](https://github.com/FrankAbuRamez/plan-review-copilot) | AI-assisted building-code review: draft → senior audit → QA gate, scored against an answer key. 100% precision and 87% recall on test projects; the QA gate blocks 10/10 deliberately bad comments. |
+| [**Agent Action Gate**](https://github.com/FrankAbuRamez/agent-action-gate) | Safety layer for AI agents: nothing risky runs without a human approving that exact action. Spend limits, kill switch, tamper-evident log. Includes a Claude agent example. |
+| [**AI Revenue Desk**](https://github.com/FrankAbuRamez/ai-revenue-desk) | After-hours receptionist for HVAC and plumbing shops. Emergencies always go to a human; it never diagnoses or promises. |
 
 **Interests:** AI operations · LLM evaluation · human-in-the-loop design · process and quality systems
 
