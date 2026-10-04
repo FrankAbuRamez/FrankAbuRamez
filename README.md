@@ -1,6 +1,6 @@
 ### Hi there
 
-By day I run engineering operations: a 20+ engineer plan review team across U.S. and international offices, 100+ active projects a week. I'm an ICC-certified commercial plans examiner.
+By day I run engineering operations: I lead a 20+ engineer plan review team across U.S. and international offices, with 570+ projects in active review. I'm an ICC-certified commercial plans examiner.
 
 On my own time, **I build AI tools**, mostly around the same question I deal with at work: how do you get fast output *and* trustworthy quality? I use Claude Code and Codex daily, and I build each project the way I run a review team: draft, audit, gate, and measure.
 
@@ -13,4 +13,3 @@ On my own time, **I build AI tools**, mostly around the same question I deal wit
 | [**AI Revenue Desk**](https://github.com/FrankAbuRamez/ai-revenue-desk) | After-hours receptionist for HVAC and plumbing shops. Emergencies always go to a human; it never diagnoses or promises. |
 
 **Interests:** AI operations · LLM evaluation · human-in-the-loop design · process and quality systems
-
