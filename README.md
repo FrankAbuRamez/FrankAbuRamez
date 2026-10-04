@@ -1,4 +1,4 @@
-### Hi, I'm Alaa Atassi
+### Hi there
 
 By day I run engineering operations: a 20+ engineer plan review team across U.S. and international offices, 100+ active projects a week. I'm an ICC-certified commercial plans examiner.
 
@@ -14,4 +14,3 @@ On my own time, **I build AI tools**, mostly around the same question I deal wit
 
 **Interests:** AI operations · LLM evaluation · human-in-the-loop design · process and quality systems
 
-[LinkedIn](https://www.linkedin.com/in/alaa-atassi-72015ab6)
